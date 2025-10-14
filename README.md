@@ -2,12 +2,11 @@
 
 ## Hi, I'm Chief-github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me,***
-
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; ***About me,***
+<br>
 I'm just a guy who enjoys coding, cybersecurity and building pcs! 
 <br>
 But ever since getting arch I have discorvered a passion for ricing!
-
 * 💻 Laptop | ThinkPad T14s |
 * 🧰 OS | Arch Linux + Windows 11 Pro | ![Arch btw](https://img.shields.io/badge/I_use-Arch_Linux-blue?logo=arch-linux)
 * 🧱 Window Manager | Hyprland | ![WM](https://img.shields.io/badge/WM-Hyprland-5E81AC?logo=wayland&logoColor=white)
