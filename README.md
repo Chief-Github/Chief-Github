@@ -1,10 +1,4 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<div align="right">
-  <!-- real time -->
-  <a href="https://moon-svg.minung.dev">
-    <img src="https://moon-svg.minung.dev/moon.svg?size=35&theme=basic&rotate=0" alt="Moon phase">
-  </a>
-</div>
 
 ## Hi, I'm Chief-github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
