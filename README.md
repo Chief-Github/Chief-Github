@@ -3,6 +3,18 @@
 ## Hi, I'm Chief-github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-I'm just a guy who enjoys coding, 
-but ever since getting arch I have discorvered a passion for ricing!
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ecc13e43-bc85-4449-910d-dda0b349ff0d" /> about me,
+
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+
+I'm just a guy who enjoys coding, cybersecurity and building pcs! 
+But ever since getting arch I have discorvered a passion for ricing!
+
+* 💻 Laptop | ThinkPad T14s |
+* 🧰 OS | Arch Linux + Windows 11 Pro | ![Arch btw](https://img.shields.io/badge/I_use-Arch_Linux-blue?logo=arch-linux)
+* 🧱 Window Manager | Hyprland | ![WM](https://img.shields.io/badge/WM-Hyprland-5E81AC?logo=wayland&logoColor=white)
+* 📜 **Editor:** VSCode | ![VSCode](https://img.shields.io/badge/Editor-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+* 
+
+![](https://komarev.com/ghpvc/?username=Chief-Github&color=grey)
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
