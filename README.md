@@ -21,9 +21,10 @@ And ever since getting arch I have discovered a passion for ricing!
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chief-Github&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
 
 <p align="center">
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chief-Github&theme=tokyonight" alt="Chief-Github" /></a> </p>
-</p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chief-Github&theme=tokyonight" alt="Chief-Github" /></a> </p>
 
-![](https://komarev.com/ghpvc/?username=Chief-Github&color=grey)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Chief-Github&color=grey" alt="Profile views"/>
+</p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
