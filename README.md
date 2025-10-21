@@ -16,8 +16,6 @@ And ever since getting arch I have discovered a passion for ricing!
 * 🧱 Window Manager | Hyprland | ![WM](https://img.shields.io/badge/WM-Hyprland-5E81AC?logo=wayland&logoColor=white)
 * 📜 **Editor:** VSCode | ![VSCode](https://img.shields.io/badge/Editor-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=Chief-Github&color=grey)
-
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chief-github&theme=tokyonight)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chief-Github&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
@@ -25,5 +23,7 @@ And ever since getting arch I have discovered a passion for ricing!
 <p align="center">
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chief-Github&theme=tokyonight" alt="Chief-Github" /></a> </p>
 </p>
+
+![](https://komarev.com/ghpvc/?username=Chief-Github&color=grey)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
