@@ -14,6 +14,8 @@ But ever since getting arch I have discorvered a passion for ricing!
 * 🧱 Window Manager | Hyprland | ![WM](https://img.shields.io/badge/WM-Hyprland-5E81AC?logo=wayland&logoColor=white)
 * 📜 **Editor:** VSCode | ![VSCode](https://img.shields.io/badge/Editor-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
+I'm currently studying cyber security.
+
 ![](https://komarev.com/ghpvc/?username=Chief-Github&color=grey)
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chief-github&theme=tokyonight)
