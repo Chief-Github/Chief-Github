@@ -19,10 +19,9 @@ And ever since getting arch I have discovered a passion for ricing!
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chief-github&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chief-Github&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chief-Github&theme=tokyonight" alt="Chief-Github" /></a> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chief-Github&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chief-Github&theme=tokyonight" alt="Chief-Github" /></a> </p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Chief-Github&color=grey" alt="Profile views"/>
