@@ -4,9 +4,10 @@
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; ***About me,***
-<br>
+
 I'm a cyber security student who enjoys coding, Linux and building pcs! 
 <br>
+
 And ever since getting arch I have discovered a passion for ricing!
 
 💼 *Aspiring Cybersecurity Analyst | Linux Security | Automation | Ethical Hacking*
