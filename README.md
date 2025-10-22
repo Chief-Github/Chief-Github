@@ -6,7 +6,6 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; ***About me,***
 
 I'm a cyber security student who enjoys coding, Linux and building pcs! 
-<br>
 
 And ever since getting arch I have discovered a passion for ricing!
 
@@ -21,7 +20,8 @@ And ever since getting arch I have discovered a passion for ricing!
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chief-Github&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chief-Github&theme=tokyonight" alt="Chief-Github" /></a> </p>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chief-Github&theme=tokyonight" alt="Chief-Github" /></a> </p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Chief-Github&color=grey" alt="Profile views"/>
