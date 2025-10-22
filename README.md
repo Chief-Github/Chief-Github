@@ -20,7 +20,7 @@ And ever since getting arch I have discovered a passion for ricing!
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chief-Github&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chief-Github&repo=dot_files&theme=tokyonight" />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chief-Github&theme=tokyonight" alt="Chief-Github" /></a> </p>
 
 <p align="right">
